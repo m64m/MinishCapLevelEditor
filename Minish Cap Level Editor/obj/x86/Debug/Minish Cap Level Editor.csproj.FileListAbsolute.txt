@@ -1,0 +1,18 @@
+C:\Users\Charlie\AppData\Local\Temporary Projects\Minish Cap Level Editor\bin\Debug\Minish Cap Level Editor.exe
+C:\Users\Charlie\AppData\Local\Temporary Projects\Minish Cap Level Editor\bin\Debug\Minish Cap Level Editor.pdb
+C:\Users\Charlie\AppData\Local\Temporary Projects\Minish Cap Level Editor\bin\Debug\GBHL.dll
+C:\Users\Charlie\AppData\Local\Temporary Projects\Minish Cap Level Editor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Charlie\AppData\Local\Temporary Projects\Minish Cap Level Editor\obj\x86\Debug\Minish_Cap_Level_Editor.Form1.resources
+C:\Users\Charlie\AppData\Local\Temporary Projects\Minish Cap Level Editor\obj\x86\Debug\Minish_Cap_Level_Editor.Properties.Resources.resources
+C:\Users\Charlie\AppData\Local\Temporary Projects\Minish Cap Level Editor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Charlie\AppData\Local\Temporary Projects\Minish Cap Level Editor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Charlie\AppData\Local\Temporary Projects\Minish Cap Level Editor\obj\x86\Debug\Minish Cap Level Editor.exe
+C:\Users\Charlie\AppData\Local\Temporary Projects\Minish Cap Level Editor\obj\x86\Debug\Minish Cap Level Editor.pdb
+C:\Users\Charlie\documents\visual studio 2010\Projects\Minish Cap Level Editor\Minish Cap Level Editor\obj\x86\Debug\Minish Cap Level Editor.exe
+C:\Users\Charlie\documents\visual studio 2010\Projects\Minish Cap Level Editor\Minish Cap Level Editor\obj\x86\Debug\Minish Cap Level Editor.pdb
+C:\Users\Charlie\Documents\Visual Studio 2010\Projects\Minish Cap Level Editor\Minish Cap Level Editor\bin\Debug\Minish Cap Level Editor.exe
+C:\Users\Charlie\Documents\Visual Studio 2010\Projects\Minish Cap Level Editor\Minish Cap Level Editor\bin\Debug\Minish Cap Level Editor.pdb
+C:\Users\Charlie\Documents\Visual Studio 2010\Projects\Minish Cap Level Editor\Minish Cap Level Editor\obj\x86\Debug\Minish_Cap_Level_Editor.Form1.resources
+C:\Users\Charlie\Documents\Visual Studio 2010\Projects\Minish Cap Level Editor\Minish Cap Level Editor\obj\x86\Debug\Minish_Cap_Level_Editor.Properties.Resources.resources
+C:\Users\Charlie\Documents\Visual Studio 2010\Projects\Minish Cap Level Editor\Minish Cap Level Editor\obj\x86\Debug\Minish Cap Level Editor.csprojResolveAssemblyReference.cache
+C:\Users\Charlie\Documents\Visual Studio 2010\Projects\Minish Cap Level Editor\Minish Cap Level Editor\obj\x86\Debug\Minish Cap Level Editor.csproj.GenerateResource.Cache
